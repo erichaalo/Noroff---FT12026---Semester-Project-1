@@ -7,6 +7,7 @@ Semester Project 1 – Noroff FED March 2026 FT
 ## Pages
 
 ## Links
+- Style guide: /docs/style-guide.png
 - Live site:
 - Prototype:
 - Project board:
